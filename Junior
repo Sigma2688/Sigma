@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Norsacc Junior - Vente de Téléphones</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; background-color: #f4f4f4; }
+        header { background-color: #333; color: white; padding: 15px; }
+        .container { max-width: 800px; margin: 20px auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0px 0px 10px gray; }
+        .product { border-bottom: 1px solid #ddd; padding: 10px; }
+        .contact { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Norsacc Junior - Vente de Téléphones</h1>
+        <p>Votre boutique de téléphones à Dakar, Yoff</p>
+    </header>
+    <div class="container">
+        <h2>Nos Produits</h2>
+        <div class="product">
+            <h3>iPhone 13 Pro</h3>
+            <p>Prix : 550 000 FCFA</p>
+        </div>
+        <div class="product">
+            <h3>Samsung Galaxy S22</h3>
+            <p>Prix : 500 000 FCFA</p>
+        </div>
+        <div class="product">
+            <h3>Xiaomi Redmi Note 11</h3>
+            <p>Prix : 150 000 FCFA</p>
+        </div>
+        
+        <div class="contact">
+            <h2>Contactez-nous</h2>
+            <p>Email : <a href="mailto:Norsaccjunior@gmail.com">Norsaccjunior@gmail.com</a></p>
+            <p>Téléphone : <a href="tel:+221774317372">+221 77 431 73 72</a></p>
+        </div>
+    </div>
+</body>
+</html>
+p
